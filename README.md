@@ -1,4 +1,4 @@
-##👋 Hi there! I'm an automation engineer transitioning into web development. Passionate about creating interactive and user-friendly experiences, I started my journey in front-end development with HTML, CSS, and JavaScript.##
+**👋 Hi there! I'm an automation engineer transitioning into web development. Passionate about creating interactive and user-friendly experiences, I started my journey in front-end development with HTML, CSS, and JavaScript.**
 
 🚀 Currently diving into React, with plans to expand into Node.js and full-stack development.
 
