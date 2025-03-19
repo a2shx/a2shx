@@ -2,7 +2,7 @@
 
 🚀 Currently diving into React, with plans to expand into Node.js and full-stack development.
 
-📚 Now working on Weather Report web project (practice for using State management and API)!
+📚 Now working on Feed-like web project (practice for using State management and API)!
 
 💡 I love solving problems, building cool projects, and continuously learning new technologies.
 
