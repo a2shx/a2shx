@@ -2,7 +2,7 @@
 
 🚀 Currently diving into React, with plans to expand into Node.js and full-stack development.
 
-📚 Now working on authentication with firebase & jwt project (practice for next.js typescript firebase jwt!)!
+📚 Now working on authentication system with firebase & jwt project (practice for next.js typescript firebase jwt!)!
 
 💡 I love solving problems, building cool projects, and continuously learning new technologies.
 
